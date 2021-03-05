@@ -1,0 +1,12 @@
+{
+  "name": "chatstring",
+  "version": "1.0.0",
+  "description": "This package wraps mineflayer's chat event with a toString to allow easy access to the chat message as a string by using this as a plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
